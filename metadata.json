@@ -1,0 +1,6 @@
+{
+  "name": "Spice Haven - Fine Dining & Authentic Flavours",
+  "description": "A modern, premium restaurant website demo showcasing authentic cuisines, online ordering, reservations, and exquisite dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
